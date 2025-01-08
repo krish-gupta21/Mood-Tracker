@@ -9,5 +9,3 @@ Mood Flow is a sleek and user-friendly app designed to help you monitor, underst
 
 ![Screenshot 2024-12-12 000800](https://github.com/user-attachments/assets/fd5bd5bf-c602-4437-9bb4-493732e846f6)
 ![Screenshot 2024-12-12 000816](https://github.com/user-attachments/assets/04258f18-3f6d-42ed-8e03-c3f235b696b0)
-
-
